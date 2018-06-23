@@ -1,7 +1,0 @@
-orig_name,dest_name,full_trip,orig_cost,freight_cost,dest_cost,mile,km,days,max_knots,detail,extraction_time
-Leliu,Hakata,"['Leliu', 'Chiwan', 'Hakata']",no rate,no rate,no rate,1229.99,2277.93,4,14,"['57.41 mi (106.32 km)\nTransit Time: a day (14 knots)', '1172.58 mi (2171.61 km)\nTransit Time: 3 days']",11/23/2017 18:15
-Hong Kong,Singapore,"['Hong Kong', 'Singapore']",no rate,no rate,no rate,1427.05,2642.89,6,14,['1427.05 mi (2642.89 km)\nTransit Time: 6 days (14 knots)'],11/23/2017 18:15
-Hong Kong,Osaka,"['Hong Kong', 'Osaka']",no rate,no rate,no rate,1407.28,2606.28,6,14,['1407.28 mi (2606.28 km)\nTransit Time: 6 days (14 knots)'],11/23/2017 18:15
-Hong Kong,Shanghai,"['Hong Kong', 'Shanghai']",no rate,no rate,no rate,802.73,1486.65,3,14,['802.73 mi (1486.65 km)\nTransit Time: 3 days (14 knots)'],11/23/2017 18:15
-Hong Kong,Seoul,"['Hong Kong', 'Seoul']",no rate,no rate,no rate,1245.11,2305.94,6,14,['1245.11 mi (2305.94 km)\nTransit Time: 6 days (14 knots)'],11/23/2017 18:15
-Hong Kong,Tokyo,"['Hong Kong', 'Tokyo']",no rate,no rate,no rate,1621.39,3002.81,7,14,['1621.39 mi (3002.81 km)\nTransit Time: 7 days (14 knots)'],11/23/2017 18:15

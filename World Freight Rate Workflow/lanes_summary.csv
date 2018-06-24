@@ -1,0 +1,600 @@
+Orig,Dest,Orig_txt,Dest_txt,Mode,Equipment,Rate,extraction_time
+Dalian,Hong Kong,"Dalian - Zhoushuizi International Airport, China (DLC)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,029.10 - $1,137.43",1/3/2018 17:11
+Qingdao,Hong Kong,"Qingdao, China (TAO)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,029.10 - $1,137.43",1/3/2018 17:11
+Shanghai,Hong Kong,"Shanghai - Pu Dong, China (PVG)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,029.10 - $1,137.43",1/3/2018 17:11
+Xiamen,Hong Kong,"Xiamen, China (XMN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,029.10 - $1,137.43",1/3/2018 17:11
+El Paso,Hong Kong,"El Paso , TX - El Paso International Airport, USA (ELP)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/3/2018 17:11
+Groveport,Hong Kong,Groveport,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/3/2018 17:12
+Los Angeles,Hong Kong,"Los Angeles , CA - International, USA (LAX)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/3/2018 17:12
+Madison,Hong Kong,"Madison , WI, USA (MSN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/3/2018 17:12
+Myrtle Beach,Hong Kong,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/3/2018 17:12
+Newark,Hong Kong,"New York - Newark, NJ, USA (EWR)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/3/2018 17:12
+Paramount,Hong Kong,Paramount,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/3/2018 17:13
+Elizabeth,Hong Kong,"Port Elizabeth, South Africa (PLZ)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,093.51 - $1,208.62",1/3/2018 17:13
+Zanesville,Hong Kong,Zanesville,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,093.51 - $1,208.62",1/3/2018 17:14
+Incheon,Hong Kong,"Seoul - Incheon International Airport, South Korea (ICN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$895.40 - $989.65,1/3/2018 17:14
+Istanbul,Hong Kong,"Istanbul - Sabiha Gokcen, Turkey (SAW)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,010.67 - $1,117.05",1/3/2018 17:14
+Guadalajara,Hong Kong,"Guadalajara, Mexico (GDL)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$972.35 - $1,074.70",1/3/2018 17:14
+Guatemala City,Hong Kong,"Guatemala City - La Aurora International Airport, Guatemala (GUA)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,146.65 - $1,267.35",1/3/2018 17:14
+Bangalore,Hong Kong,"Bangalore, India (BLR)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,180.58 - $1,304.85",1/3/2018 17:14
+Colombo,Hong Kong,"Colombo - Bandaranaike International Airport, Sri Lanka (CMB)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,016.15 - $1,123.12",1/3/2018 17:14
+Dhaka,Hong Kong,"Dhaka - Zia International Airport, Bangladesh (DAC)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,235.88 - $1,365.97",1/3/2018 17:14
+Madras,Hong Kong,"Madras (Chennai), India (MAA)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,180.58 - $1,304.85",1/3/2018 17:15
+Mumbai,Hong Kong,"Bombay (Mumbai) - Chhatrapati Shivaji International, India (BOM)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,180.58 - $1,304.85",1/3/2018 17:15
+New Delhi,Hong Kong,New Delhi,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,180.58 - $1,304.85",1/3/2018 17:15
+Hanoi,Hong Kong,"Hanoi - Noibai, Vietnam (HAN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,0,1/3/2018 17:24
+Ho Chi Minh City,Hong Kong,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,0,1/3/2018 17:25
+Jakarta,Hong Kong,"Jakarta - Soekarno-Hatta International, Indonesia (CGK)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,093.51 - $1,208.62",1/3/2018 17:25
+Manila,Hong Kong,"Manila - Ninoy Aquino International, Philippines (MNL)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,068.93 - $1,181.45",1/3/2018 17:25
+Phnom Penh,Hong Kong,"Phnom Penh - Pochentong, Cambodia (PNH)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,195.37 - $1,321.20",1/3/2018 17:25
+BeiLiu,Singapore,BeiLiu,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,200.86 - $1,327.27",1/3/2018 17:26
+Dalian,Singapore,"Dalian - Zhoushuizi International Airport, China (DLC)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:26
+Dongguan,Singapore,"Dongguan, China (DGM)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:26
+Ganzhou,Singapore,Ganzhou,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:27
+Heyuan,Singapore,Heyuan,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:27
+Hu Zhou,Singapore,Hu Zhou,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:28
+Qingdao,Singapore,"Qingdao, China (TAO)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:28
+Shanghai,Singapore,"Shanghai - Pu Dong, China (PVG)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:28
+Shenzhen,Singapore,"Shenzhen - Baoan, China (SZX)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:28
+Xiamen,Singapore,"Xiamen, China (XMN)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:29
+Zhongshan,Singapore,Zhongshan,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/3/2018 17:29
+El Paso,Singapore,"El Paso , TX - El Paso International Airport, USA (ELP)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/3/2018 17:29
+Groveport,Singapore,Groveport,"Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/3/2018 17:30
+Los Angeles,Singapore,"Los Angeles , CA - International, USA (LAX)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/3/2018 17:30
+Madison,Singapore,"Madison , WI, USA (MSN)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/3/2018 17:30
+Myrtle Beach,Singapore,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/3/2018 17:30
+Newark,Singapore,"New York - Newark, NJ, USA (EWR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/3/2018 17:30
+Paramount,Singapore,Paramount,"Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/3/2018 17:31
+Elizabeth,Singapore,"Port Elizabeth, South Africa (PLZ)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,099.00 - $1,214.68",1/3/2018 17:31
+Zanesville,Singapore,Zanesville,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,099.00 - $1,214.68",1/3/2018 17:32
+Hong Kong,Singapore,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Singapore - Seletar, Singapore (XSP)",Air,Air,$902.36 - $997.35,1/3/2018 17:32
+Incheon,Singapore,"Seoul - Incheon International Airport, South Korea (ICN)","Singapore - Seletar, Singapore (XSP)",Air,Air,$900.89 - $995.72,1/3/2018 17:32
+Istanbul,Singapore,"Istanbul - Sabiha Gokcen, Turkey (SAW)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,016.16 - $1,123.12",1/3/2018 17:32
+Guadalajara,Singapore,"Guadalajara, Mexico (GDL)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$977.84 - $1,080.77",1/3/2018 17:32
+Guatemala City,Singapore,"Guatemala City - La Aurora International Airport, Guatemala (GUA)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,152.13 - $1,273.41",1/3/2018 17:32
+Bangalore,Singapore,"Bangalore, India (BLR)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/3/2018 17:33
+Colombo,Singapore,"Colombo - Bandaranaike International Airport, Sri Lanka (CMB)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,021.64 - $1,129.18",1/3/2018 17:33
+Dhaka,Singapore,"Dhaka - Zia International Airport, Bangladesh (DAC)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,241.37 - $1,372.04",1/3/2018 17:33
+Madras,Singapore,"Madras (Chennai), India (MAA)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/3/2018 17:33
+Mumbai,Singapore,"Bombay (Mumbai) - Chhatrapati Shivaji International, India (BOM)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/3/2018 17:33
+New Delhi,Singapore,New Delhi,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/3/2018 17:34
+Hanoi,Singapore,"Hanoi - Noibai, Vietnam (HAN)","Singapore - Seletar, Singapore (XSP)",Air,Air,0,1/3/2018 17:34
+Ho Chi Minh City,Singapore,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Singapore - Seletar, Singapore (XSP)",Air,Air,0,1/3/2018 17:35
+Jakarta,Singapore,"Jakarta - Soekarno-Hatta International, Indonesia (CGK)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,099.00 - $1,214.68",1/3/2018 17:35
+Manila,Singapore,"Manila - Ninoy Aquino International, Philippines (MNL)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,074.41 - $1,187.51",1/3/2018 17:35
+Phnom Penh,Singapore,"Phnom Penh - Pochentong, Cambodia (PNH)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,200.86 - $1,327.27",1/3/2018 17:35
+El Paso,Shenzhen,"El Paso , TX - El Paso International Airport, USA (ELP)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/3/2018 17:35
+Groveport,Shenzhen,Groveport,"Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/3/2018 17:36
+Los Angeles,Shenzhen,"Los Angeles , CA - International, USA (LAX)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/3/2018 17:36
+Madison,Shenzhen,"Madison , WI, USA (MSN)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/3/2018 17:36
+Myrtle Beach,Shenzhen,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/3/2018 17:36
+Newark,Shenzhen,"New York - Newark, NJ, USA (EWR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/3/2018 17:36
+Paramount,Shenzhen,Paramount,"Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/3/2018 17:37
+Elizabeth,Shenzhen,"Port Elizabeth, South Africa (PLZ)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,225.74 - $1,354.77",1/3/2018 17:37
+Zanesville,Shenzhen,Zanesville,"Shenzhen - Baoan, China (SZX)",Air,Air,"$1,225.74 - $1,354.77",1/3/2018 17:38
+Hong Kong,Shenzhen,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,029.10 - $1,137.43",1/3/2018 17:38
+Incheon,Shenzhen,"Seoul - Incheon International Airport, South Korea (ICN)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,027.63 - $1,135.80",1/3/2018 17:38
+Istanbul,Shenzhen,"Istanbul - Sabiha Gokcen, Turkey (SAW)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,142.90 - $1,263.20",1/3/2018 17:38
+Guadalajara,Shenzhen,"Guadalajara, Mexico (GDL)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,104.58 - $1,220.85",1/3/2018 17:38
+Guatemala City,Shenzhen,"Guatemala City - La Aurora International Airport, Guatemala (GUA)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,278.88 - $1,413.49",1/3/2018 17:38
+Bangalore,Shenzhen,"Bangalore, India (BLR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/3/2018 17:38
+Colombo,Shenzhen,"Colombo - Bandaranaike International Airport, Sri Lanka (CMB)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,148.38 - $1,269.27",1/3/2018 17:39
+Dhaka,Shenzhen,"Dhaka - Zia International Airport, Bangladesh (DAC)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,368.11 - $1,512.12",1/3/2018 17:39
+Madras,Shenzhen,"Madras (Chennai), India (MAA)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/3/2018 17:39
+Mumbai,Shenzhen,"Bombay (Mumbai) - Chhatrapati Shivaji International, India (BOM)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/3/2018 17:39
+New Delhi,Shenzhen,New Delhi,"Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/3/2018 17:39
+Hanoi,Shenzhen,"Hanoi - Noibai, Vietnam (HAN)","Shenzhen - Baoan, China (SZX)",Air,Air,0,1/3/2018 17:40
+Ho Chi Minh City,Shenzhen,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Shenzhen - Baoan, China (SZX)",Air,Air,0,1/3/2018 17:41
+Jakarta,Shenzhen,"Jakarta - Soekarno-Hatta International, Indonesia (CGK)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,225.74 - $1,354.77",1/3/2018 17:41
+Manila,Shenzhen,"Manila - Ninoy Aquino International, Philippines (MNL)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,201.16 - $1,327.59",1/3/2018 17:41
+Phnom Penh,Shenzhen,"Phnom Penh - Pochentong, Cambodia (PNH)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,327.60 - $1,467.35",1/3/2018 17:41
+BeiLiu,Kuala Lumpur,BeiLiu,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,274.92 - $1,409.12",1/3/2018 17:42
+Dalian,Kuala Lumpur,"Dalian - Zhoushuizi International Airport, China (DLC)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:42
+Dongguan,Kuala Lumpur,"Dongguan, China (DGM)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:42
+Ganzhou,Kuala Lumpur,Ganzhou,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:43
+Heyuan,Kuala Lumpur,Heyuan,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:43
+Hu Zhou,Kuala Lumpur,Hu Zhou,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:44
+Qingdao,Kuala Lumpur,"Qingdao, China (TAO)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:44
+Shanghai,Kuala Lumpur,"Shanghai - Pu Dong, China (PVG)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:44
+Shenzhen,Kuala Lumpur,"Shenzhen - Baoan, China (SZX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:44
+Xiamen,Kuala Lumpur,"Xiamen, China (XMN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:44
+Zhongshan,Kuala Lumpur,Zhongshan,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/3/2018 17:45
+El Paso,Kuala Lumpur,"El Paso , TX - El Paso International Airport, USA (ELP)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/3/2018 17:45
+Groveport,Kuala Lumpur,Groveport,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/3/2018 17:46
+Los Angeles,Kuala Lumpur,"Los Angeles , CA - International, USA (LAX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/3/2018 17:46
+Madison,Kuala Lumpur,"Madison , WI, USA (MSN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/3/2018 17:46
+Myrtle Beach,Kuala Lumpur,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/3/2018 17:46
+Newark,Kuala Lumpur,"New York - Newark, NJ, USA (EWR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/3/2018 17:46
+Paramount,Kuala Lumpur,Paramount,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/3/2018 17:47
+Elizabeth,Kuala Lumpur,"Port Elizabeth, South Africa (PLZ)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,173.06 - $1,296.54",1/3/2018 17:47
+Zanesville,Kuala Lumpur,Zanesville,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,173.06 - $1,296.54",1/3/2018 17:48
+Hong Kong,Kuala Lumpur,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$976.42 - $1,079.20",1/3/2018 17:48
+Incheon,Kuala Lumpur,"Seoul - Incheon International Airport, South Korea (ICN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$974.95 - $1,077.58",1/3/2018 17:48
+Istanbul,Kuala Lumpur,"Istanbul - Sabiha Gokcen, Turkey (SAW)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,090.22 - $1,204.98",1/3/2018 17:48
+Guadalajara,Kuala Lumpur,"Guadalajara, Mexico (GDL)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,051.90 - $1,162.62",1/3/2018 17:48
+Guatemala City,Kuala Lumpur,"Guatemala City - La Aurora International Airport, Guatemala (GUA)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,226.19 - $1,355.27",1/3/2018 17:48
+Bangalore,Kuala Lumpur,"Bangalore, India (BLR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/3/2018 17:48
+Colombo,Kuala Lumpur,"Colombo - Bandaranaike International Airport, Sri Lanka (CMB)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,095.70 - $1,211.04",1/3/2018 17:48
+Dhaka,Kuala Lumpur,"Dhaka - Zia International Airport, Bangladesh (DAC)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,315.43 - $1,453.89",1/3/2018 17:48
+Madras,Kuala Lumpur,"Madras (Chennai), India (MAA)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/3/2018 17:49
+Mumbai,Kuala Lumpur,"Bombay (Mumbai) - Chhatrapati Shivaji International, India (BOM)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/3/2018 17:49
+New Delhi,Kuala Lumpur,New Delhi,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/3/2018 17:49
+Hanoi,Kuala Lumpur,"Hanoi - Noibai, Vietnam (HAN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,0,1/3/2018 17:50
+Ho Chi Minh City,Kuala Lumpur,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,0,1/3/2018 17:51
+Jakarta,Kuala Lumpur,"Jakarta - Soekarno-Hatta International, Indonesia (CGK)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,173.06 - $1,296.54",1/3/2018 17:51
+Manila,Kuala Lumpur,"Manila - Ninoy Aquino International, Philippines (MNL)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,148.47 - $1,269.37",1/3/2018 17:51
+Phnom Penh,Kuala Lumpur,"Phnom Penh - Pochentong, Cambodia (PNH)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,274.92 - $1,409.12",1/3/2018 17:51
+Hong Kong,Tokyo,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Tokyo - Narita, Japan (NRT)",Air,Air,$893.94 - $988.04,1/3/2018 17:51
+Hong Kong,Kuwait City,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Kuwait City,Air,Air,$893.94 - $988.04,1/3/2018 17:52
+Hong Kong,Seoul,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Seoul - Kimpo, South Korea (SEL)",Air,Air,$895.40 - $989.65,1/3/2018 17:52
+Hong Kong,Taipei,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Taipei - Sung Shan, Taiwan (TAY)",Air,Air,"$962.44 - $1,063.75",1/3/2018 17:52
+Hong Kong,Abu Dhabi,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Abu Dhabi - Abu Dhabi International, United Arab Emirates (AUH)",Air,Air,"$944.91 - $1,044.38",1/3/2018 17:52
+Singapore,Hong Kong,"Singapore - Paya Lebar, Singapore (QPG)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$902.36 - $997.35,1/3/2018 17:52
+Singapore,Tokyo,"Singapore - Paya Lebar, Singapore (QPG)","Tokyo - Narita, Japan (NRT)",Air,Air,$899.43 - $994.10,1/3/2018 17:52
+Singapore,Kuwait City,"Singapore - Seletar, Singapore (XSP)",Kuwait City,Air,Air,$899.43 - $994.10,1/3/2018 17:53
+Singapore,Seoul,"Singapore - Seletar, Singapore (XSP)","Seoul - Kimpo, South Korea (SEL)",Air,Air,$900.89 - $995.72,1/3/2018 17:53
+Singapore,Taipei,"Singapore - Seletar, Singapore (XSP)","Taipei - Sung Shan, Taiwan (TAY)",Air,Air,"$967.93 - $1,069.81",1/3/2018 17:53
+Singapore,Abu Dhabi,"Singapore - Seletar, Singapore (XSP)","Abu Dhabi - Abu Dhabi International, United Arab Emirates (AUH)",Air,Air,"$950.40 - $1,050.44",1/3/2018 17:53
+Shenzhen,Tokyo,"Shenzhen - Baoan, China (SZX)","Tokyo - Narita, Japan (NRT)",Air,Air,"$1,026.17 - $1,134.18",1/3/2018 17:53
+Shenzhen,Kuwait City,"Shenzhen - Baoan, China (SZX)",Kuwait City,Air,Air,"$1,026.17 - $1,134.18",1/3/2018 17:54
+Shenzhen,Seoul,"Shenzhen - Baoan, China (SZX)","Seoul - Kimpo, South Korea (SEL)",Air,Air,"$1,027.63 - $1,135.80",1/3/2018 17:54
+Shenzhen,Taipei,"Shenzhen - Baoan, China (SZX)","Taipei - Sung Shan, Taiwan (TAY)",Air,Air,"$1,094.67 - $1,209.90",1/3/2018 17:54
+Shenzhen,Abu Dhabi,"Shenzhen - Baoan, China (SZX)","Abu Dhabi - Abu Dhabi International, United Arab Emirates (AUH)",Air,Air,"$1,077.14 - $1,190.52",1/3/2018 17:54
+Kuala Lumpur,Hong Kong,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$976.42 - $1,079.20",1/3/2018 17:54
+Kuala Lumpur,Tokyo,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Tokyo - Narita, Japan (NRT)",Air,Air,"$973.49 - $1,075.96",1/3/2018 17:54
+Kuala Lumpur,Kuwait City,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Kuwait City,Air,Air,"$973.49 - $1,075.96",1/3/2018 17:55
+Kuala Lumpur,Seoul,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Seoul - Kimpo, South Korea (SEL)",Air,Air,"$974.95 - $1,077.58",1/3/2018 17:55
+Kuala Lumpur,Taipei,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Taipei - Sung Shan, Taiwan (TAY)",Air,Air,"$1,041.99 - $1,151.67",1/3/2018 17:55
+Kuala Lumpur,Abu Dhabi,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Abu Dhabi - Abu Dhabi International, United Arab Emirates (AUH)",Air,Air,"$1,024.46 - $1,132.30",1/3/2018 17:55
+Dalian,Hong Kong,"Dalian, China","Kwai Chung, Hong Kong",Ocean,20FT,$306.69 - $338.98,1/3/2018 18:10
+Qingdao,Hong Kong,"Qingdao, China","Kwai Chung, Hong Kong",Ocean,20FT,$256.06 - $283.01,1/3/2018 18:10
+Shanghai,Hong Kong,"Shanghai, China","Kwai Chung, Hong Kong",Ocean,20FT,$262.63 - $290.28,1/3/2018 18:11
+Elizabeth,Hong Kong,"Port Elizabeth, South Africa","Kwai Chung, Hong Kong",Ocean,20FT,$661.48 - $731.11,1/3/2018 18:11
+Chittagong,Hong Kong,"Chittagong, Bangladesh","Kwai Chung, Hong Kong",Ocean,20FT,$447.63 - $494.75,1/3/2018 18:11
+Madras,Hong Kong,Madras,"Kwai Chung, Hong Kong",Ocean,20FT,$447.63 - $494.75,1/3/2018 18:11
+Nhava Sheva,Hong Kong,Nhava Sheva,"Kwai Chung, Hong Kong",Ocean,20FT,$447.63 - $494.75,1/3/2018 18:12
+Hai Phong,Hong Kong,"Hai Phong, Vietnam","Kwai Chung, Hong Kong",Ocean,20FT,$194.75 - $215.25,1/3/2018 18:12
+Ho Chi Minh City,Hong Kong,"Ho Chi Minh City, Vietnam","Kwai Chung, Hong Kong",Ocean,20FT,$435.16 - $480.97,1/3/2018 18:12
+Jakarta,Hong Kong,"Jakarta, Indonesia","Kwai Chung, Hong Kong",Ocean,20FT,$288.57 - $318.95,1/3/2018 18:12
+Manila,Hong Kong,"Manila, Philippines","Kwai Chung, Hong Kong",Ocean,20FT,$194.75 - $215.25,1/3/2018 18:12
+Sihanoukville,Hong Kong,"Sihanoukville, Cambodia","Kwai Chung, Hong Kong",Ocean,20FT,$541.17 - $598.14,1/3/2018 18:13
+Dalian,Singapore,"Dalian, China","Singapore, Singapore",Ocean,20FT,$194.75 - $215.25,1/3/2018 18:13
+Shanghai,Singapore,"Shanghai, China","Singapore, Singapore",Ocean,20FT,$194.75 - $215.25,1/3/2018 18:13
+Elizabeth,Singapore,"Port Elizabeth, South Africa","Singapore, Singapore",Ocean,20FT,$488.53 - $539.95,1/3/2018 18:13
+Hong Kong,Singapore,"Kwai Chung, Hong Kong","Singapore, Singapore",Ocean,20FT,$194.75 - $215.25,1/3/2018 18:13
+Chittagong,Singapore,"Chittagong, Bangladesh","Singapore, Singapore",Ocean,20FT,$502.79 - $555.71,1/3/2018 18:13
+Madras,Singapore,Madras,"Singapore, Singapore",Ocean,20FT,$502.79 - $555.71,1/3/2018 18:14
+Nhava Sheva,Singapore,Nhava Sheva,"Singapore, Singapore",Ocean,20FT,$502.79 - $555.71,1/3/2018 18:14
+Hai Phong,Singapore,"Hai Phong, Vietnam","Singapore, Singapore",Ocean,20FT,$224.68 - $248.34,1/3/2018 18:15
+Ho Chi Minh City,Singapore,"Ho Chi Minh City, Vietnam","Singapore, Singapore",Ocean,20FT,$480.93 - $531.55,1/3/2018 18:15
+Jakarta,Singapore,"Jakarta, Indonesia","Singapore, Singapore",Ocean,20FT,$424.48 - $469.16,1/3/2018 18:15
+Manila,Singapore,"Manila, Philippines","Singapore, Singapore",Ocean,20FT,$305.23 - $337.35,1/3/2018 18:15
+Sihanoukville,Singapore,"Sihanoukville, Cambodia","Singapore, Singapore",Ocean,20FT,$499.61 - $552.20,1/3/2018 18:15
+Elizabeth,Shenzhen,"Port Elizabeth, South Africa",Shenzhen,Ocean,20FT,$488.53 - $539.95,1/3/2018 18:16
+Hong Kong,Shenzhen,"Kwai Chung, Hong Kong",Shenzhen,Ocean,20FT,$194.75 - $215.25,1/3/2018 18:16
+Chittagong,Shenzhen,"Chittagong, Bangladesh",Shenzhen,Ocean,20FT,$502.79 - $555.71,1/3/2018 18:17
+Madras,Shenzhen,Madras,Shenzhen,Ocean,20FT,$502.79 - $555.71,1/3/2018 18:18
+Nhava Sheva,Shenzhen,Nhava Sheva,Shenzhen,Ocean,20FT,$502.79 - $555.71,1/3/2018 18:19
+Hai Phong,Shenzhen,"Hai Phong, Vietnam",Shenzhen,Ocean,20FT,$224.68 - $248.34,1/3/2018 18:20
+Ho Chi Minh City,Shenzhen,"Ho Chi Minh City, Vietnam",Shenzhen,Ocean,20FT,$480.93 - $531.55,1/3/2018 18:20
+Jakarta,Shenzhen,"Jakarta, Indonesia",Shenzhen,Ocean,20FT,$424.48 - $469.16,1/3/2018 18:21
+Manila,Shenzhen,"Manila, Philippines",Shenzhen,Ocean,20FT,$305.23 - $337.35,1/3/2018 18:22
+Sihanoukville,Shenzhen,Sihanoukville,Shenzhen,Ocean,20FT,$305.23 - $337.35,1/3/2018 18:23
+Dalian,Kuala Lumpur,"Dalian, China",Kuala Lumpur,Ocean,20FT,$194.75 - $215.25,1/3/2018 18:24
+Qingdao,Kuala Lumpur,"Qingdao, China",Kuala Lumpur,Ocean,20FT,$194.75 - $215.25,1/3/2018 18:24
+Shanghai,Kuala Lumpur,"Shanghai, China",Kuala Lumpur,Ocean,20FT,$194.75 - $215.25,1/3/2018 18:25
+Elizabeth,Kuala Lumpur,"Port Elizabeth, South Africa",Kuala Lumpur,Ocean,20FT,$488.53 - $539.95,1/3/2018 18:25
+Hong Kong,Kuala Lumpur,"Kwai Chung, Hong Kong",Kuala Lumpur,Ocean,20FT,$194.75 - $215.25,1/3/2018 18:26
+Chittagong,Kuala Lumpur,"Chittagong, Bangladesh",Kuala Lumpur,Ocean,20FT,$502.79 - $555.71,1/3/2018 18:27
+Madras,Kuala Lumpur,Madras,Kuala Lumpur,Ocean,20FT,$502.79 - $555.71,1/3/2018 18:28
+Nhava Sheva,Kuala Lumpur,Nhava Sheva,Kuala Lumpur,Ocean,20FT,$502.79 - $555.71,1/3/2018 18:29
+Hai Phong,Kuala Lumpur,"Hai Phong, Vietnam",Kuala Lumpur,Ocean,20FT,$224.68 - $248.34,1/3/2018 18:30
+Ho Chi Minh City,Kuala Lumpur,"Ho Chi Minh City, Vietnam",Kuala Lumpur,Ocean,20FT,$480.93 - $531.55,1/3/2018 18:30
+Jakarta,Kuala Lumpur,"Jakarta, Indonesia",Kuala Lumpur,Ocean,20FT,$424.48 - $469.16,1/3/2018 18:31
+Manila,Kuala Lumpur,"Manila, Philippines",Kuala Lumpur,Ocean,20FT,$305.23 - $337.35,1/3/2018 18:32
+Sihanoukville,Kuala Lumpur,"Sihanoukville, Cambodia",Kuala Lumpur,Ocean,20FT,$499.61 - $552.20,1/3/2018 18:32
+Qingdao,Hong Kong,"Qingdao, China","Kwai Chung, Hong Kong",Ocean,40FT,$382.17 - $422.40,1/3/2018 22:10
+Shanghai,Hong Kong,"Shanghai, China","Kwai Chung, Hong Kong",Ocean,40FT,$391.99 - $433.25,1/3/2018 22:10
+Elizabeth,Hong Kong,"Port Elizabeth, South Africa","Kwai Chung, Hong Kong",Ocean,40FT,"$987.29 - $1,091.22",1/3/2018 22:10
+Hai Phong,Hong Kong,"Hai Phong, Vietnam","Kwai Chung, Hong Kong",Ocean,40FT,$260.85 - $288.31,1/3/2018 22:10
+Ho Chi Minh City,Hong Kong,"Ho Chi Minh City, Vietnam","Kwai Chung, Hong Kong",Ocean,40FT,$649.50 - $717.87,1/3/2018 22:10
+Jakarta,Hong Kong,"Jakarta, Indonesia","Kwai Chung, Hong Kong",Ocean,40FT,$430.71 - $476.04,1/3/2018 22:10
+Shanghai,Singapore,"Shanghai, China","Singapore, Singapore",Ocean,40FT,$219.94 - $243.09,1/3/2018 22:11
+Elizabeth,Singapore,"Port Elizabeth, South Africa","Singapore, Singapore",Ocean,40FT,$729.14 - $805.90,1/3/2018 22:11
+Hai Phong,Singapore,"Hai Phong, Vietnam","Singapore, Singapore",Ocean,40FT,$335.35 - $370.65,1/3/2018 22:11
+Ho Chi Minh City,Singapore,"Ho Chi Minh City, Vietnam","Singapore, Singapore",Ocean,40FT,$717.81 - $793.37,1/3/2018 22:11
+Jakarta,Singapore,"Jakarta, Indonesia","Singapore, Singapore",Ocean,40FT,$633.55 - $700.23,1/3/2018 22:11
+Elizabeth,Shenzhen,"Port Elizabeth, South Africa",Shenzhen,Ocean,40FT,$729.14 - $805.90,1/3/2018 22:12
+Hai Phong,Shenzhen,"Hai Phong, Vietnam",Shenzhen,Ocean,40FT,$335.35 - $370.65,1/3/2018 22:12
+Ho Chi Minh City,Shenzhen,"Ho Chi Minh City, Vietnam",Shenzhen,Ocean,40FT,$717.81 - $793.37,1/3/2018 22:13
+Jakarta,Shenzhen,"Jakarta, Indonesia",Shenzhen,Ocean,40FT,$633.55 - $700.23,1/3/2018 22:14
+Qingdao,Kuala Lumpur,"Qingdao, China",Kuala Lumpur,Ocean,40FT,$210.12 - $232.24,1/3/2018 22:14
+Shanghai,Kuala Lumpur,"Shanghai, China",Kuala Lumpur,Ocean,40FT,$219.94 - $243.09,1/3/2018 22:15
+Elizabeth,Kuala Lumpur,"Port Elizabeth, South Africa",Kuala Lumpur,Ocean,40FT,$729.14 - $805.90,1/3/2018 22:15
+Hai Phong,Kuala Lumpur,"Hai Phong, Vietnam",Kuala Lumpur,Ocean,40FT,$335.35 - $370.65,1/3/2018 22:16
+Ho Chi Minh City,Kuala Lumpur,"Ho Chi Minh City, Vietnam",Kuala Lumpur,Ocean,40FT,$717.81 - $793.37,1/3/2018 22:17
+Jakarta,Kuala Lumpur,"Jakarta, Indonesia",Kuala Lumpur,Ocean,40FT,$633.55 - $700.23,1/3/2018 22:17
+Jakarta,Hong Kong,"Jakarta, Indonesia","Kwai Chung, Hong Kong",Ocean,40FT,$473.78 - $523.65,1/3/2018 22:24
+Jakarta,Singapore,"Jakarta, Indonesia","Singapore, Singapore",Ocean,40FT,$696.90 - $770.26,1/3/2018 22:24
+Jakarta,Shenzhen,"Jakarta, Indonesia","Xiagang, China",Ocean,40FT,$530.52 - $586.36,1/3/2018 22:25
+Jakarta,Kuala Lumpur,"Jakarta, Indonesia","Port Kelang, Malaysia",Ocean,40FT,$703.87 - $777.96,1/3/2018 22:26
+New York,Hong Kong,"New York - Newark, NJ, USA (EWR)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 10:20
+New York,Singapore,"New York - Newark, NJ, USA (EWR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 10:21
+New York,Shenzhen,"New York - Newark, NJ, USA (EWR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 10:21
+New York,Kuala Lumpur,"New York - Newark, NJ, USA (EWR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 10:21
+New Jersey,Hong Kong,"New Jersey, United States","Kwai Chung, Hong Kong",Ocean,20FT,$629.25 - $695.49,1/4/2018 10:24
+New Jersey,Singapore,"New Jersey, United States","Singapore, Singapore",Ocean,20FT,$817.55 - $903.61,1/4/2018 10:24
+New Jersey,Shantou,"New Jersey, United States","Shantou, China",Ocean,20FT,$678.58 - $750.01,1/4/2018 10:24
+Hong Kong,Shantou,"Kwai Chung, Hong Kong","Shantou, China",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:24
+Chittagong,Shantou,"Chittagong, Bangladesh","Shantou, China",Ocean,20FT,$485.63 - $536.75,1/4/2018 10:24
+Madras,Shantou,Madras,"Shantou, China",Ocean,20FT,$485.63 - $536.75,1/4/2018 10:25
+Nhava Sheva,Shantou,Nhava Sheva,"Shantou, China",Ocean,20FT,$485.63 - $536.75,1/4/2018 10:26
+Hai Phong,Shantou,"Hai Phong, Vietnam","Shantou, China",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:26
+Ho Chi Minh City,Shantou,"Ho Chi Minh City, Vietnam","Shantou, China",Ocean,20FT,$463.51 - $512.31,1/4/2018 10:26
+Jakarta,Shantou,"Jakarta, Indonesia","Shantou, China",Ocean,20FT,$316.92 - $350.28,1/4/2018 10:26
+Manila,Shantou,"Manila, Philippines","Shantou, China",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:26
+Sihanoukville,Shantou,"Sihanoukville, Cambodia","Shantou, China",Ocean,20FT,$569.52 - $629.47,1/4/2018 10:26
+Dalian,"Port Kelang, Malaysia","Dalian, China","Port Kelang, Malaysia",Ocean,20FT,$200.14 - $221.21,1/4/2018 10:26
+Qingdao,"Port Kelang, Malaysia","Qingdao, China","Port Kelang, Malaysia",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:27
+Shanghai,"Port Kelang, Malaysia","Shanghai, China","Port Kelang, Malaysia",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:28
+New Jersey,"Port Kelang, Malaysia","New Jersey, United States","Port Kelang, Malaysia",Ocean,20FT,$833.07 - $920.76,1/4/2018 10:28
+Hong Kong,"Port Kelang, Malaysia","Kwai Chung, Hong Kong","Port Kelang, Malaysia",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:30
+Chittagong,"Port Kelang, Malaysia","Chittagong, Bangladesh","Port Kelang, Malaysia",Ocean,20FT,$514.67 - $568.84,1/4/2018 10:30
+Madras,"Port Kelang, Malaysia",Madras,"Port Kelang, Malaysia",Ocean,20FT,$514.67 - $568.84,1/4/2018 10:32
+Nhava Sheva,"Port Kelang, Malaysia",Nhava Sheva,"Port Kelang, Malaysia",Ocean,20FT,$514.67 - $568.84,1/4/2018 10:33
+Hai Phong,"Port Kelang, Malaysia","Hai Phong, Vietnam","Port Kelang, Malaysia",Ocean,20FT,$233.40 - $257.97,1/4/2018 10:34
+Ho Chi Minh City,"Port Kelang, Malaysia","Ho Chi Minh City, Vietnam","Port Kelang, Malaysia",Ocean,20FT,$485.74 - $536.87,1/4/2018 10:34
+Jakarta,"Port Kelang, Malaysia","Jakarta, Indonesia","Port Kelang, Malaysia",Ocean,20FT,$428.72 - $473.85,1/4/2018 10:35
+Manila,"Port Kelang, Malaysia","Manila, Philippines","Port Kelang, Malaysia",Ocean,20FT,$313.94 - $346.99,1/4/2018 10:35
+Sihanoukville,"Port Kelang, Malaysia","Sihanoukville, Cambodia","Port Kelang, Malaysia",Ocean,20FT,$504.60 - $557.72,1/4/2018 10:36
+New Jersey,Zhanjiang,"New Jersey, United States","Zhanjiang, China",Ocean,20FT,$677.91 - $749.27,1/4/2018 10:36
+Hong Kong,Zhanjiang,"Kwai Chung, Hong Kong","Zhanjiang, China",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:36
+Chittagong,Zhanjiang,"Chittagong, Bangladesh","Zhanjiang, China",Ocean,20FT,$484.96 - $536.01,1/4/2018 10:36
+Madras,Zhanjiang,Madras,"Zhanjiang, China",Ocean,20FT,$484.96 - $536.01,1/4/2018 10:37
+Nhava Sheva,Zhanjiang,Nhava Sheva,"Zhanjiang, China",Ocean,20FT,$484.96 - $536.01,1/4/2018 10:38
+Hai Phong,Zhanjiang,"Hai Phong, Vietnam","Zhanjiang, China",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:38
+Ho Chi Minh City,Zhanjiang,"Ho Chi Minh City, Vietnam","Zhanjiang, China",Ocean,20FT,$462.84 - $511.56,1/4/2018 10:38
+Jakarta,Zhanjiang,"Jakarta, Indonesia","Zhanjiang, China",Ocean,20FT,$316.25 - $349.54,1/4/2018 10:38
+Manila,Zhanjiang,"Manila, Philippines","Zhanjiang, China",Ocean,20FT,$194.75 - $215.25,1/4/2018 10:38
+Sihanoukville,Zhanjiang,"Sihanoukville, Cambodia","Zhanjiang, China",Ocean,20FT,$568.85 - $628.73,1/4/2018 10:38
+New Jersey,Hong Kong,"New Jersey, United States","Kwai Chung, Hong Kong",Ocean,40FT,"$939.18 - $1,038.04",1/4/2018 10:40
+New Jersey,Singapore,"New Jersey, United States","Singapore, Singapore",Ocean,40FT,"$1,220.22 - $1,348.67",1/4/2018 10:40
+New Jersey,Shantou,"New Jersey, United States","Shantou, China",Ocean,40FT,"$1,012.81 - $1,119.42",1/4/2018 10:40
+Hai Phong,Shantou,"Hai Phong, Vietnam","Shantou, China",Ocean,40FT,$273.90 - $302.73,1/4/2018 10:40
+Ho Chi Minh City,Shantou,"Ho Chi Minh City, Vietnam","Shantou, China",Ocean,40FT,$691.81 - $764.64,1/4/2018 10:40
+Jakarta,Shantou,"Jakarta, Indonesia","Shantou, China",Ocean,40FT,$473.02 - $522.81,1/4/2018 10:40
+Qingdao,Port Kelang,"Qingdao, China","Port Kelang, Malaysia",Ocean,40FT,$223.14 - $246.62,1/4/2018 10:41
+Shanghai,Port Kelang,"Shanghai, China","Port Kelang, Malaysia",Ocean,40FT,$232.95 - $257.47,1/4/2018 10:41
+New Jersey,Port Kelang,"New Jersey, United States","Port Kelang, Malaysia",Ocean,40FT,"$1,243.38 - $1,374.26",1/4/2018 10:41
+Hai Phong,Port Kelang,"Hai Phong, Vietnam","Port Kelang, Malaysia",Ocean,40FT,$348.36 - $385.03,1/4/2018 10:41
+Ho Chi Minh City,Port Kelang,"Ho Chi Minh City, Vietnam","Port Kelang, Malaysia",Ocean,40FT,$724.98 - $801.30,1/4/2018 10:41
+Jakarta,Port Kelang,"Jakarta, Indonesia","Port Kelang, Malaysia",Ocean,40FT,$639.88 - $707.24,1/4/2018 10:41
+New Jersey,Zhanjiang,"New Jersey, United States",Zhanjiang,Ocean,40FT,$639.88 - $707.24,1/4/2018 10:42
+Hai Phong,Zhanjiang,"Hai Phong, Vietnam","Zhanjiang, China",Ocean,40FT,$273.90 - $302.73,1/4/2018 10:42
+Ho Chi Minh City,Zhanjiang,"Ho Chi Minh City, Vietnam","Zhanjiang, China",Ocean,40FT,$690.81 - $763.53,1/4/2018 10:42
+Jakarta,Zhanjiang,"Jakarta, Indonesia","Zhanjiang, China",Ocean,40FT,$472.02 - $521.71,1/4/2018 10:42
+Jakarta,Shantou,"Jakarta, Indonesia","Shantou, China",Ocean,45FT,$520.32 - $575.09,1/4/2018 10:43
+Jakarta,Port Kelang,"Jakarta, Indonesia","Port Kelang, Malaysia",Ocean,45FT,$703.87 - $777.96,1/4/2018 10:43
+Jakarta,Zhanjiang,"Jakarta, Indonesia","Zhanjiang, China",Ocean,45FT,$519.22 - $573.88,1/4/2018 10:43
+Dalian,Hong Kong,"Dalian - Zhoushuizi International Airport, China (DLC)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,029.10 - $1,137.43",1/4/2018 11:55
+Qingdao,Hong Kong,"Qingdao, China (TAO)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,029.10 - $1,137.43",1/4/2018 11:55
+Shanghai,Hong Kong,"Shanghai - Pu Dong, China (PVG)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,029.10 - $1,137.43",1/4/2018 11:55
+Xiamen,Hong Kong,"Xiamen, China (XMN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,029.10 - $1,137.43",1/4/2018 11:55
+El Paso,Hong Kong,"El Paso , TX - El Paso International Airport, USA (ELP)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:56
+Groveport,Hong Kong,Groveport,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:56
+Los Angeles,Hong Kong,"Los Angeles , CA - International, USA (LAX)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:57
+Madison,Hong Kong,"Madison , WI, USA (MSN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:57
+Myrtle Beach,Hong Kong,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:57
+Newark,Hong Kong,"New York - Newark, NJ, USA (EWR)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:57
+Paramount,Hong Kong,Paramount,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:58
+New York,Hong Kong,"New York - Newark, NJ, USA (EWR)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:58
+Zanesville,Hong Kong,Zanesville,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$882.10 - $974.96,1/4/2018 11:59
+Incheon,Hong Kong,"Seoul - Incheon International Airport, South Korea (ICN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$895.40 - $989.65,1/4/2018 11:59
+Istanbul,Hong Kong,"Istanbul - Sabiha Gokcen, Turkey (SAW)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,010.67 - $1,117.05",1/4/2018 11:59
+Guadalajara,Hong Kong,"Guadalajara, Mexico (GDL)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$972.35 - $1,074.70",1/4/2018 12:00
+Guatemala City,Hong Kong,"Guatemala City - La Aurora International Airport, Guatemala (GUA)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,146.65 - $1,267.35",1/4/2018 12:00
+Bangalore,Hong Kong,"Bangalore, India (BLR)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,180.58 - $1,304.85",1/4/2018 12:00
+Colombo,Hong Kong,"Colombo - Bandaranaike International Airport, Sri Lanka (CMB)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,016.15 - $1,123.12",1/4/2018 12:00
+Dhaka,Hong Kong,"Dhaka - Zia International Airport, Bangladesh (DAC)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,235.88 - $1,365.97",1/4/2018 12:01
+Madras,Hong Kong,"Madras (Chennai), India (MAA)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,180.58 - $1,304.85",1/4/2018 12:01
+Mumbai,Hong Kong,"Bombay (Mumbai) - Chhatrapati Shivaji International, India (BOM)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,180.58 - $1,304.85",1/4/2018 12:01
+New Delhi,Hong Kong,New Delhi,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,180.58 - $1,304.85",1/4/2018 12:02
+Hanoi,Hong Kong,"Hanoi - Noibai, Vietnam (HAN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,0,1/4/2018 12:02
+Ho Chi Minh City,Hong Kong,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,0,1/4/2018 12:03
+Jakarta,Hong Kong,"Jakarta - Soekarno-Hatta International, Indonesia (CGK)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,093.51 - $1,208.62",1/4/2018 12:03
+Manila,Hong Kong,Manila,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,093.51 - $1,208.62",1/4/2018 12:03
+Phnom Penh,Hong Kong,"Phnom Penh - Pochentong, Cambodia (PNH)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$1,195.37 - $1,321.20",1/4/2018 12:03
+BeiLiu,Singapore,BeiLiu,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,200.86 - $1,327.27",1/4/2018 12:04
+Dalian,Singapore,"Dalian - Zhoushuizi International Airport, China (DLC)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:04
+Dongguan,Singapore,"Dongguan, China (DGM)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:05
+Ganzhou,Singapore,Ganzhou,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:05
+Heyuan,Singapore,Heyuan,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:06
+Hu Zhou,Singapore,Hu Zhou,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:07
+Qingdao,Singapore,"Qingdao, China (TAO)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:07
+Shanghai,Singapore,"Shanghai - Pu Dong, China (PVG)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:07
+Shenzhen,Singapore,"Shenzhen - Baoan, China (SZX)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:07
+Xiamen,Singapore,"Xiamen, China (XMN)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:08
+Zhongshan,Singapore,Zhongshan,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 12:08
+El Paso,Singapore,"El Paso , TX - El Paso International Airport, USA (ELP)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:09
+Groveport,Singapore,Groveport,"Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:09
+Los Angeles,Singapore,"Los Angeles , CA - International, USA (LAX)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:10
+Madison,Singapore,"Madison , WI, USA (MSN)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:10
+Myrtle Beach,Singapore,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:10
+Newark,Singapore,"New York - Newark, NJ, USA (EWR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:10
+Paramount,Singapore,Paramount,"Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:11
+New York,Singapore,"New York - Newark, NJ, USA (EWR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:11
+Zanesville,Singapore,Zanesville,"Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 12:12
+Hong Kong,Singapore,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Singapore - Seletar, Singapore (XSP)",Air,Air,$902.36 - $997.35,1/4/2018 12:12
+Incheon,Singapore,"Seoul - Incheon International Airport, South Korea (ICN)","Singapore - Seletar, Singapore (XSP)",Air,Air,$900.89 - $995.72,1/4/2018 12:12
+Istanbul,Singapore,"Istanbul - Sabiha Gokcen, Turkey (SAW)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,016.16 - $1,123.12",1/4/2018 12:13
+Guadalajara,Singapore,"Guadalajara, Mexico (GDL)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$977.84 - $1,080.77",1/4/2018 12:13
+Guatemala City,Singapore,"Guatemala City - La Aurora International Airport, Guatemala (GUA)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,152.13 - $1,273.41",1/4/2018 12:13
+Bangalore,Singapore,"Bangalore, India (BLR)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/4/2018 12:13
+Colombo,Singapore,"Colombo - Bandaranaike International Airport, Sri Lanka (CMB)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,021.64 - $1,129.18",1/4/2018 12:14
+Dhaka,Singapore,"Dhaka - Zia International Airport, Bangladesh (DAC)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,241.37 - $1,372.04",1/4/2018 12:14
+Madras,Singapore,"Madras (Chennai), India (MAA)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/4/2018 12:14
+Mumbai,Singapore,"Bombay (Mumbai) - Chhatrapati Shivaji International, India (BOM)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/4/2018 12:14
+New Delhi,Singapore,New Delhi,"Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/4/2018 12:15
+Hanoi,Singapore,"Hanoi - Noibai, Vietnam (HAN)","Singapore - Seletar, Singapore (XSP)",Air,Air,0,1/4/2018 12:16
+Ho Chi Minh City,Singapore,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Singapore - Seletar, Singapore (XSP)",Air,Air,0,1/4/2018 12:16
+Jakarta,Singapore,"Jakarta - Soekarno-Hatta International, Indonesia (CGK)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,099.00 - $1,214.68",1/4/2018 12:17
+Manila,Singapore,"Manila - Ninoy Aquino International, Philippines (MNL)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,074.41 - $1,187.51",1/4/2018 12:17
+Phnom Penh,Singapore,"Phnom Penh - Pochentong, Cambodia (PNH)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,200.86 - $1,327.27",1/4/2018 12:17
+El Paso,Shenzhen,"El Paso , TX - El Paso International Airport, USA (ELP)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:17
+Groveport,Shenzhen,Groveport,"Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:18
+Los Angeles,Shenzhen,"Los Angeles , CA - International, USA (LAX)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:18
+Madison,Shenzhen,"Madison , WI, USA (MSN)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:18
+Myrtle Beach,Shenzhen,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:19
+Newark,Shenzhen,"New York - Newark, NJ, USA (EWR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:19
+Paramount,Shenzhen,Paramount,"Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:20
+New York,Shenzhen,"New York - Newark, NJ, USA (EWR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:20
+Zanesville,Shenzhen,Zanesville,"Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 12:20
+Hong Kong,Shenzhen,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,029.10 - $1,137.43",1/4/2018 12:20
+Incheon,Shenzhen,"Seoul - Incheon International Airport, South Korea (ICN)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,027.63 - $1,135.80",1/4/2018 12:21
+Istanbul,Shenzhen,"Istanbul - Sabiha Gokcen, Turkey (SAW)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,142.90 - $1,263.20",1/4/2018 12:21
+Guadalajara,Shenzhen,"Guadalajara, Mexico (GDL)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,104.58 - $1,220.85",1/4/2018 12:21
+Guatemala City,Shenzhen,"Guatemala City - La Aurora International Airport, Guatemala (GUA)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,278.88 - $1,413.49",1/4/2018 12:21
+Bangalore,Shenzhen,"Bangalore, India (BLR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/4/2018 12:21
+Colombo,Shenzhen,"Colombo - Bandaranaike International Airport, Sri Lanka (CMB)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,148.38 - $1,269.27",1/4/2018 12:21
+Dhaka,Shenzhen,"Dhaka - Zia International Airport, Bangladesh (DAC)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,368.11 - $1,512.12",1/4/2018 12:21
+Madras,Shenzhen,"Madras (Chennai), India (MAA)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/4/2018 12:21
+Mumbai,Shenzhen,"Bombay (Mumbai) - Chhatrapati Shivaji International, India (BOM)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/4/2018 12:21
+New Delhi,Shenzhen,New Delhi,"Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/4/2018 12:22
+Hanoi,Shenzhen,"Hanoi - Noibai, Vietnam (HAN)","Shenzhen - Baoan, China (SZX)",Air,Air,0,1/4/2018 12:23
+Ho Chi Minh City,Shenzhen,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Shenzhen - Baoan, China (SZX)",Air,Air,0,1/4/2018 12:23
+Jakarta,Shenzhen,"Jakarta - Soekarno-Hatta International, Indonesia (CGK)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,225.74 - $1,354.77",1/4/2018 12:23
+Manila,Shenzhen,"Manila - Ninoy Aquino International, Philippines (MNL)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,201.16 - $1,327.59",1/4/2018 12:24
+Phnom Penh,Shenzhen,"Phnom Penh - Pochentong, Cambodia (PNH)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,327.60 - $1,467.35",1/4/2018 12:24
+BeiLiu,Kuala Lumpur,BeiLiu,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,274.92 - $1,409.12",1/4/2018 12:24
+Dalian,Kuala Lumpur,"Dalian - Zhoushuizi International Airport, China (DLC)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:24
+Dongguan,Kuala Lumpur,"Dongguan, China (DGM)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:25
+Ganzhou,Kuala Lumpur,Ganzhou,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:25
+Heyuan,Kuala Lumpur,Heyuan,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:26
+Hu Zhou,Kuala Lumpur,Hu Zhou,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:26
+Qingdao,Kuala Lumpur,"Qingdao, China (TAO)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:27
+Shanghai,Kuala Lumpur,"Shanghai - Pu Dong, China (PVG)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:27
+Shenzhen,Kuala Lumpur,"Shenzhen - Baoan, China (SZX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:27
+Xiamen,Kuala Lumpur,"Xiamen, China (XMN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:27
+Zhongshan,Kuala Lumpur,Zhongshan,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 12:28
+El Paso,Kuala Lumpur,"El Paso , TX - El Paso International Airport, USA (ELP)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:28
+Groveport,Kuala Lumpur,Groveport,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:28
+Los Angeles,Kuala Lumpur,"Los Angeles , CA - International, USA (LAX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:28
+Madison,Kuala Lumpur,"Madison , WI, USA (MSN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:29
+Myrtle Beach,Kuala Lumpur,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:29
+Newark,Kuala Lumpur,"New York - Newark, NJ, USA (EWR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:29
+Paramount,Kuala Lumpur,Paramount,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:29
+New York,Kuala Lumpur,"New York - Newark, NJ, USA (EWR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:30
+Zanesville,Kuala Lumpur,Zanesville,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 12:30
+Hong Kong,Kuala Lumpur,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$976.42 - $1,079.20",1/4/2018 12:30
+Incheon,Kuala Lumpur,"Seoul - Incheon International Airport, South Korea (ICN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$974.95 - $1,077.58",1/4/2018 12:31
+Istanbul,Kuala Lumpur,"Istanbul - Sabiha Gokcen, Turkey (SAW)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,090.22 - $1,204.98",1/4/2018 12:31
+Guadalajara,Kuala Lumpur,"Guadalajara, Mexico (GDL)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,051.90 - $1,162.62",1/4/2018 12:31
+Guatemala City,Kuala Lumpur,"Guatemala City - La Aurora International Airport, Guatemala (GUA)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,226.19 - $1,355.27",1/4/2018 12:31
+Bangalore,Kuala Lumpur,"Bangalore, India (BLR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/4/2018 12:31
+Colombo,Kuala Lumpur,"Colombo - Bandaranaike International Airport, Sri Lanka (CMB)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,095.70 - $1,211.04",1/4/2018 12:31
+Dhaka,Kuala Lumpur,"Dhaka - Zia International Airport, Bangladesh (DAC)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,315.43 - $1,453.89",1/4/2018 12:31
+Madras,Kuala Lumpur,"Madras (Chennai), India (MAA)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/4/2018 12:31
+Mumbai,Kuala Lumpur,"Bombay (Mumbai) - Chhatrapati Shivaji International, India (BOM)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/4/2018 12:31
+New Delhi,Kuala Lumpur,New Delhi,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/4/2018 12:32
+Hanoi,Kuala Lumpur,"Hanoi - Noibai, Vietnam (HAN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,0,1/4/2018 12:33
+Ho Chi Minh City,Kuala Lumpur,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,0,1/4/2018 12:33
+Jakarta,Kuala Lumpur,"Jakarta - Soekarno-Hatta International, Indonesia (CGK)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,173.06 - $1,296.54",1/4/2018 12:33
+Manila,Kuala Lumpur,"Manila - Ninoy Aquino International, Philippines (MNL)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,148.47 - $1,269.37",1/4/2018 12:34
+Phnom Penh,Kuala Lumpur,"Phnom Penh - Pochentong, Cambodia (PNH)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,274.92 - $1,409.12",1/4/2018 12:34
+Hong Kong,Tokyo,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Tokyo - Narita, Japan (NRT)",Air,Air,$893.94 - $988.04,1/4/2018 12:34
+Hong Kong,Kuwait City,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Kuwait City,Air,Air,$893.94 - $988.04,1/4/2018 12:34
+Hong Kong,Seoul,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Seoul - Kimpo, South Korea (SEL)",Air,Air,$895.40 - $989.65,1/4/2018 12:35
+Hong Kong,Taipei,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Taipei - Sung Shan, Taiwan (TAY)",Air,Air,"$962.44 - $1,063.75",1/4/2018 12:35
+Hong Kong,Abu Dhabi,"Hong Kong - International Airport (HKIA), Hong Kong (HKG)","Abu Dhabi - Abu Dhabi International, United Arab Emirates (AUH)",Air,Air,"$944.91 - $1,044.38",1/4/2018 12:35
+Singapore,Hong Kong,"Singapore - Seletar, Singapore (XSP)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,$902.36 - $997.35,1/4/2018 12:35
+Singapore,Tokyo,"Singapore - Seletar, Singapore (XSP)","Tokyo - Narita, Japan (NRT)",Air,Air,$899.43 - $994.10,1/4/2018 12:35
+Singapore,Kuwait City,"Singapore - Seletar, Singapore (XSP)",Kuwait City,Air,Air,$899.43 - $994.10,1/4/2018 12:36
+Singapore,Seoul,"Singapore - Seletar, Singapore (XSP)","Seoul - Kimpo, South Korea (SEL)",Air,Air,$900.89 - $995.72,1/4/2018 12:36
+Singapore,Taipei,"Singapore - Seletar, Singapore (XSP)","Taipei - Sung Shan, Taiwan (TAY)",Air,Air,"$967.93 - $1,069.81",1/4/2018 12:36
+Singapore,Abu Dhabi,"Singapore - Seletar, Singapore (XSP)","Abu Dhabi - Abu Dhabi International, United Arab Emirates (AUH)",Air,Air,"$950.40 - $1,050.44",1/4/2018 12:36
+Shenzhen,Tokyo,"Shenzhen - Baoan, China (SZX)","Tokyo - Narita, Japan (NRT)",Air,Air,"$1,026.17 - $1,134.18",1/4/2018 12:36
+Shenzhen,Kuwait City,"Shenzhen - Baoan, China (SZX)",Kuwait City,Air,Air,"$1,026.17 - $1,134.18",1/4/2018 12:37
+Shenzhen,Seoul,"Shenzhen - Baoan, China (SZX)","Seoul - Kimpo, South Korea (SEL)",Air,Air,"$1,027.63 - $1,135.80",1/4/2018 12:37
+Shenzhen,Taipei,"Shenzhen - Baoan, China (SZX)","Taipei - Sung Shan, Taiwan (TAY)",Air,Air,"$1,094.67 - $1,209.90",1/4/2018 12:37
+Shenzhen,Abu Dhabi,"Shenzhen - Baoan, China (SZX)","Abu Dhabi - Abu Dhabi International, United Arab Emirates (AUH)",Air,Air,"$1,077.14 - $1,190.52",1/4/2018 12:37
+Kuala Lumpur,Hong Kong,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Hong Kong - International Airport (HKIA), Hong Kong (HKG)",Air,Air,"$976.42 - $1,079.20",1/4/2018 12:37
+Kuala Lumpur,Tokyo,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Tokyo - Narita, Japan (NRT)",Air,Air,"$973.49 - $1,075.96",1/4/2018 12:37
+Kuala Lumpur,Kuwait City,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Kuwait City,Air,Air,"$973.49 - $1,075.96",1/4/2018 12:38
+Kuala Lumpur,Seoul,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Seoul - Kimpo, South Korea (SEL)",Air,Air,"$974.95 - $1,077.58",1/4/2018 12:38
+Kuala Lumpur,Taipei,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Taipei - Sung Shan, Taiwan (TAY)",Air,Air,"$1,041.99 - $1,151.67",1/4/2018 12:38
+Kuala Lumpur,Abu Dhabi,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Abu Dhabi - Abu Dhabi International, United Arab Emirates (AUH)",Air,Air,"$1,024.46 - $1,132.30",1/4/2018 12:38
+Ji'An,Singapore,"Ji'An, China (KNC)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 17:43
+Dongguan,Singapore,"Dongguan, China (DGM)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 17:43
+Shanghai,Singapore,"Shanghai - Pu Dong, China (PVG)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 17:43
+Qingdao,Singapore,"Qingdao, China (TAO)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 17:43
+Shenzhen,Singapore,"Shenzhen - Baoan, China (SZX)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 17:43
+Xiamen,Singapore,"Xiamen, China (XMN)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/4/2018 17:43
+Los Angeles,Singapore,"Los Angeles , CA - International, USA (LAX)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 17:43
+Madison,Singapore,"Madison , WI, USA (MSN)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 17:44
+Myrtle Beach,Singapore,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 17:44
+Newark,Singapore,"New York - Newark, NJ, USA (EWR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 17:44
+Los Angeles,Singapore,"Los Angeles , CA - International, USA (LAX)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 17:44
+New York,Singapore,"New York - Newark, NJ, USA (EWR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 17:44
+Akron,Singapore,"Akron, OH, USA (CAK)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/4/2018 17:44
+Indira Gandhi,Singapore,"Delhi - Indira Gandhi International Airport, India (DEL)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/4/2018 17:44
+Hanoi,Singapore,"Hanoi - Noibai, Vietnam (HAN)","Singapore - Seletar, Singapore (XSP)",Air,Air,0,1/4/2018 17:45
+Ho Chi Minh City,Singapore,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Singapore - Seletar, Singapore (XSP)",Air,Air,0,1/4/2018 17:46
+Los Angeles,Shenzhen,"Los Angeles , CA - International, USA (LAX)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 17:46
+Madison,Shenzhen,"Madison , WI, USA (MSN)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 17:46
+Myrtle Beach,Shenzhen,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 17:46
+Newark,Shenzhen,"New York - Newark, NJ, USA (EWR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 17:46
+New York,Shenzhen,"New York - Newark, NJ, USA (EWR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 17:46
+Akron,Shenzhen,"Akron, OH, USA (CAK)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/4/2018 17:46
+Indira Gandhi,Shenzhen,"Delhi - Indira Gandhi International Airport, India (DEL)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/4/2018 17:46
+Hanoi,Shenzhen,"Hanoi - Noibai, Vietnam (HAN)","Shenzhen - Baoan, China (SZX)",Air,Air,0,1/4/2018 17:47
+Ho Chi Minh City,Shenzhen,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Shenzhen - Baoan, China (SZX)",Air,Air,0,1/4/2018 17:48
+Ji'An,Kuala Lumpur,"Ji'An, China (KNC)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 17:48
+Dongguan,Kuala Lumpur,"Dongguan, China (DGM)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 17:48
+Shanghai,Kuala Lumpur,"Shanghai - Pu Dong, China (PVG)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 17:49
+Qingdao,Kuala Lumpur,"Qingdao, China (TAO)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 17:49
+Shenzhen,Kuala Lumpur,"Shenzhen - Baoan, China (SZX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 17:49
+Xiamen,Kuala Lumpur,"Xiamen, China (XMN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 17:50
+Dongguan,Kuala Lumpur,"Dongguan, China (DGM)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/4/2018 17:50
+Los Angeles,Kuala Lumpur,"Los Angeles , CA - International, USA (LAX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 17:50
+Madison,Kuala Lumpur,"Madison , WI, USA (MSN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 17:50
+Myrtle Beach,Kuala Lumpur,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 17:50
+Newark,Kuala Lumpur,"New York - Newark, NJ, USA (EWR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 17:51
+Los Angeles,Kuala Lumpur,"Los Angeles , CA - International, USA (LAX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 17:51
+New York,Kuala Lumpur,"New York - Newark, NJ, USA (EWR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 17:51
+Akron,Kuala Lumpur,"Akron, OH, USA (CAK)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/4/2018 17:51
+Indira Gandhi,Kuala Lumpur,"Delhi - Indira Gandhi International Airport, India (DEL)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/4/2018 17:51
+Hanoi,Kuala Lumpur,"Hanoi - Noibai, Vietnam (HAN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,0,1/4/2018 17:52
+Ho Chi Minh City,Kuala Lumpur,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,0,1/4/2018 17:53
+Shanghai,Singapore,"Shanghai, China","Singapore, Singapore",Ocean,20F,$194.75 - $215.25,1/4/2018 18:08
+New Jersey,Singapore,"New Jersey, United States",Singapore,Ocean,20F,$817.55 - $903.61,1/4/2018 18:09
+Shanghai,Singapore,"Shanghai, China","Singapore, Singapore",Ocean,20F,$194.75 - $215.25,1/5/2018 9:15
+New Jersey,Singapore,"New Jersey, United States","Singapore, Singapore",Ocean,20F,$817.55 - $903.61,1/5/2018 9:15
+Bangalore,Singapore,Bangalore,"Singapore, Singapore",Ocean,20F,$817.55 - $903.61,1/5/2018 9:16
+Mumbai,Singapore,"Mumbai, India","Singapore, Singapore",Ocean,20F,$669.77 - $740.28,1/5/2018 9:16
+New Jersey,Shantou,"New Jersey, United States","Shantou, China",Ocean,20F,$678.58 - $750.01,1/5/2018 9:16
+Hong Kong,Shantou,"Kwai Chung, Hong Kong","Shantou, China",Ocean,20F,$194.75 - $215.25,1/5/2018 9:16
+Chittagong,Shantou,"Chittagong, Bangladesh","Shantou, China",Ocean,20F,$485.63 - $536.75,1/5/2018 9:17
+Bangalore,Shantou,Bangalore,"Shantou, China",Ocean,20F,$485.63 - $536.75,1/5/2018 9:17
+Mumbai,Shantou,"Mumbai, India","Shantou, China",Ocean,20F,$545.69 - $603.13,1/5/2018 9:17
+Hai Phong,Shantou,"Hai Phong, Vietnam","Shantou, China",Ocean,20F,$194.75 - $215.25,1/5/2018 9:18
+Ho Chi Minh City,Shantou,Ho Chi Minh City,"Shantou, China",Ocean,20F,$194.75 - $215.25,1/5/2018 9:18
+Jakarta,Shantou,"Jakarta, Indonesia","Shantou, China",Ocean,20F,$316.92 - $350.28,1/5/2018 9:18
+Manila,Shantou,"Manila, Philippines","Shantou, China",Ocean,20F,$194.75 - $215.25,1/5/2018 9:19
+Sihanoukville,Shantou,"Sihanoukville, Cambodia","Shantou, China",Ocean,20F,$569.52 - $629.47,1/5/2018 9:19
+New Jersey,Zhanjiang,"New Jersey, United States","Zhanjiang, China",Ocean,20F,$677.91 - $749.27,1/5/2018 9:19
+Hong Kong,Zhanjiang,"Kwai Chung, Hong Kong","Zhanjiang, China",Ocean,20F,$194.75 - $215.25,1/5/2018 9:19
+Chittagong,Zhanjiang,"Chittagong, Bangladesh","Zhanjiang, China",Ocean,20F,$484.96 - $536.01,1/5/2018 9:20
+Bangalore,Zhanjiang,Bangalore,"Zhanjiang, China",Ocean,20F,$484.96 - $536.01,1/5/2018 9:20
+Mumbai,Zhanjiang,"Mumbai, India","Zhanjiang, China",Ocean,20F,$545.02 - $602.39,1/5/2018 9:21
+Hai Phong,Zhanjiang,"Hai Phong, Vietnam","Zhanjiang, China",Ocean,20F,$194.75 - $215.25,1/5/2018 9:21
+Ho Chi Minh City,Zhanjiang,"Ho Chi Minh City, Vietnam","Zhanjiang, China",Ocean,20F,$462.84 - $511.56,1/5/2018 9:21
+Jakarta,Zhanjiang,"Jakarta, Indonesia","Zhanjiang, China",Ocean,20F,$316.25 - $349.54,1/5/2018 9:21
+Manila,Zhanjiang,"Manila, Philippines","Zhanjiang, China",Ocean,20F,$194.75 - $215.25,1/5/2018 9:21
+Sihanoukville,Zhanjiang,"Sihanoukville, Cambodia","Zhanjiang, China",Ocean,20F,$568.85 - $628.73,1/5/2018 9:22
+Dalian,Port Kelang,"Dalian, China","Port Kelang, Malaysia",Ocean,20F,$200.14 - $221.21,1/5/2018 9:22
+Qingdao,Port Kelang,"Qingdao, China","Port Kelang, Malaysia",Ocean,20F,$194.75 - $215.25,1/5/2018 9:22
+Shanghai,Port Kelang,"Shanghai, China","Port Kelang, Malaysia",Ocean,20F,$194.75 - $215.25,1/5/2018 9:22
+New Jersey,Port Kelang,"New Jersey, United States","Port Kelang, Malaysia",Ocean,20F,$833.07 - $920.76,1/5/2018 9:22
+Hong Kong,Port Kelang,"Kwai Chung, Hong Kong","Port Kelang, Malaysia",Ocean,20F,$194.75 - $215.25,1/5/2018 9:23
+Chittagong,Port Kelang,"Chittagong, Bangladesh","Port Kelang, Malaysia",Ocean,20F,$514.67 - $568.84,1/5/2018 9:23
+Bangalore,Port Kelang,Bangalore,"Port Kelang, Malaysia",Ocean,20F,$514.67 - $568.84,1/5/2018 9:24
+Mumbai,Port Kelang,"Mumbai, India","Port Kelang, Malaysia",Ocean,20F,$683.85 - $755.84,1/5/2018 9:24
+Hai Phong,Port Kelang,"Hai Phong, Vietnam","Port Kelang, Malaysia",Ocean,20F,$233.40 - $257.97,1/5/2018 9:24
+Ho Chi Minh City,Port Kelang,"Ho Chi Minh City, Vietnam","Port Kelang, Malaysia",Ocean,20F,$485.74 - $536.87,1/5/2018 9:24
+Jakarta,Port Kelang,"Jakarta, Indonesia","Port Kelang, Malaysia",Ocean,20F,$428.72 - $473.85,1/5/2018 9:25
+Manila,Port Kelang,"Manila, Philippines","Port Kelang, Malaysia",Ocean,20F,$313.94 - $346.99,1/5/2018 9:25
+Sihanoukville,Port Kelang,"Sihanoukville, Cambodia","Port Kelang, Malaysia",Ocean,20F,$504.60 - $557.72,1/5/2018 9:25
+New Jersey,Singapore,"New Jersey, United States","Singapore, Singapore",Ocean,40FT,"$1,220.22 - $1,348.67",1/5/2018 9:57
+New Jersey,Shantou,"New Jersey, United States","Shantou, China",Ocean,40FT,"$1,012.81 - $1,119.42",1/5/2018 9:57
+Hai Phong,Shantou,"Hai Phong, Vietnam","Shantou, China",Ocean,40FT,$273.90 - $302.73,1/5/2018 9:57
+Ho Chi Minh City,Shantou,"Ho Chi Minh City, Vietnam","Shantou, China",Ocean,40FT,$691.81 - $764.64,1/5/2018 9:57
+Jakarta,Shantou,"Jakarta, Indonesia","Shantou, China",Ocean,40FT,$473.02 - $522.81,1/5/2018 9:57
+New Jersey,Zhanjiang,"New Jersey, United States","Zhanjiang, China",Ocean,40FT,"$1,011.81 - $1,118.31",1/5/2018 9:57
+Hai Phong,Zhanjiang,"Hai Phong, Vietnam","Zhanjiang, China",Ocean,40FT,$273.90 - $302.73,1/5/2018 9:57
+Ho Chi Minh City,Zhanjiang,"Ho Chi Minh City, Vietnam","Zhanjiang, China",Ocean,40FT,$690.81 - $763.53,1/5/2018 9:58
+Jakarta,Zhanjiang,"Jakarta, Indonesia","Zhanjiang, China",Ocean,40FT,$472.02 - $521.71,1/5/2018 9:58
+Qingdao,Port Kelang,"Qingdao, China","Port Kelang, Malaysia",Ocean,40FT,$223.14 - $246.62,1/5/2018 9:58
+Shanghai,Port Kelang,"Shanghai, China","Port Kelang, Malaysia",Ocean,40FT,$232.95 - $257.47,1/5/2018 9:58
+New Jersey,Port Kelang,"New Jersey, United States","Port Kelang, Malaysia",Ocean,40FT,"$1,243.38 - $1,374.26",1/5/2018 9:58
+Hai Phong,Port Kelang,"Hai Phong, Vietnam","Port Kelang, Malaysia",Ocean,40FT,$348.36 - $385.03,1/5/2018 9:58
+Ho Chi Minh City,Port Kelang,"Ho Chi Minh City, Vietnam","Port Kelang, Malaysia",Ocean,40FT,$724.98 - $801.30,1/5/2018 9:58
+Jakarta,Singapore,"Jakarta, Indonesia","Singapore, Singapore",Ocean,40FT,$633.55 - $700.23,1/5/2018 9:59
+Jakarta,Shantou,"Jakarta, Indonesia","Shantou, China",Ocean,40FT,$473.02 - $522.81,1/5/2018 9:59
+Jakarta,Zhanjiang,"Jakarta, Indonesia","Zhanjiang, China",Ocean,40FT,$472.02 - $521.71,1/5/2018 9:59
+Jakarta,Port Kelang,"Jakarta, Indonesia","Port Kelang, Malaysia",Ocean,40FT,$639.88 - $707.24,1/5/2018 9:59
+Ji'An,Singapore,"Ji'An, China (KNC)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/7/2018 17:11
+Dongguan,Singapore,"Dongguan, China (DGM)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/7/2018 17:25
+Shanghai,Singapore,"Shanghai - Pu Dong, China (PVG)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/7/2018 17:25
+Qingdao,Singapore,"Qingdao, China (TAO)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/7/2018 17:25
+Shenzhen,Singapore,"Shenzhen - Baoan, China (SZX)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/7/2018 17:25
+Xiamen,Singapore,"Xiamen, China (XMN)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/7/2018 17:26
+Dongguan,Singapore,"Dongguan, China (DGM)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,034.59 - $1,143.50",1/7/2018 17:26
+Los Angeles,Singapore,"Los Angeles , CA - International, USA (LAX)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/7/2018 17:26
+Madison,Singapore,"Madison , WI, USA (MSN)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/7/2018 17:26
+Myrtle Beach,Singapore,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/7/2018 17:26
+Newark,Singapore,"New York - Newark, NJ, USA (EWR)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/7/2018 17:26
+Elizabeth,Singapore,"Port Elizabeth, South Africa (PLZ)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,099.00 - $1,214.68",1/7/2018 17:27
+Akron,Singapore,"Akron, OH, USA (CAK)","Singapore - Seletar, Singapore (XSP)",Air,Air,$887.59 - $981.02,1/7/2018 17:27
+Indira Gandhi,Singapore,"Delhi - Indira Gandhi International Airport, India (DEL)","Singapore - Seletar, Singapore (XSP)",Air,Air,"$1,186.07 - $1,310.92",1/7/2018 17:27
+Hanoi,Singapore,"Hanoi - Noibai, Vietnam (HAN)","Singapore - Seletar, Singapore (XSP)",Air,Air,0,1/7/2018 17:27
+Ho Chi Minh City,Singapore,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Singapore - Seletar, Singapore (XSP)",Air,Air,0,1/7/2018 17:28
+Los Angeles,Shenzhen,"Los Angeles , CA - International, USA (LAX)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/7/2018 17:28
+Madison,Shenzhen,"Madison , WI, USA (MSN)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/7/2018 17:28
+Myrtle Beach,Shenzhen,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/7/2018 17:28
+Newark,Shenzhen,"New York - Newark, NJ, USA (EWR)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/7/2018 17:29
+Los Angeles,Shenzhen,"Los Angeles , CA - International, USA (LAX)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/7/2018 17:29
+Elizabeth,Shenzhen,"Port Elizabeth, South Africa (PLZ)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,225.74 - $1,354.77",1/7/2018 17:29
+Akron,Shenzhen,"Akron, OH, USA (CAK)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,014.33 - $1,121.10",1/7/2018 17:29
+Indira Gandhi,Shenzhen,"Delhi - Indira Gandhi International Airport, India (DEL)","Shenzhen - Baoan, China (SZX)",Air,Air,"$1,312.81 - $1,451.00",1/7/2018 17:29
+Hanoi,Shenzhen,"Hanoi - Noibai, Vietnam (HAN)","Shenzhen - Baoan, China (SZX)",Air,Air,0,1/7/2018 17:30
+Ho Chi Minh City,Shenzhen,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Shenzhen - Baoan, China (SZX)",Air,Air,0,1/7/2018 17:30
+Ji'An,Kuala Lumpur,"Ji'An, China (KNC)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/7/2018 17:30
+Dongguan,Kuala Lumpur,"Dongguan, China (DGM)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/7/2018 17:31
+Shanghai,Kuala Lumpur,"Shanghai - Pu Dong, China (PVG)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/7/2018 17:31
+Qingdao,Kuala Lumpur,"Qingdao, China (TAO)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/7/2018 17:31
+Shenzhen,Kuala Lumpur,"Shenzhen - Baoan, China (SZX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/7/2018 17:31
+Xiamen,Kuala Lumpur,"Xiamen, China (XMN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/7/2018 17:31
+Dongguan,Kuala Lumpur,"Dongguan, China (DGM)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,108.65 - $1,225.35",1/7/2018 17:32
+Los Angeles,Kuala Lumpur,"Los Angeles , CA - International, USA (LAX)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/7/2018 17:32
+Madison,Kuala Lumpur,"Madison , WI, USA (MSN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/7/2018 17:32
+Myrtle Beach,Kuala Lumpur,"Myrtle Beach, SC - Myrtle Beach AFB, USA (MYR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/7/2018 17:32
+Newark,Kuala Lumpur,"New York - Newark, NJ, USA (EWR)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/7/2018 17:32
+Elizabeth,Kuala Lumpur,"Port Elizabeth, South Africa (PLZ)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,173.06 - $1,296.54",1/7/2018 17:33
+Akron,Kuala Lumpur,"Akron, OH, USA (CAK)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$961.65 - $1,062.88",1/7/2018 17:33
+Indira Gandhi,Kuala Lumpur,"Delhi - Indira Gandhi International Airport, India (DEL)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,"$1,260.13 - $1,392.77",1/7/2018 17:33
+Hanoi,Kuala Lumpur,"Hanoi - Noibai, Vietnam (HAN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,0,1/7/2018 17:34
+Ho Chi Minh City,Kuala Lumpur,"Saigon (Ho Chi Minh City), Vietnam (SGN)","Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)",Air,Air,0,1/7/2018 17:34
+Singapore,Kuwait,"Singapore - Seletar, Singapore (XSP)","Kuwait - Kuwait International, Kuwait (KWI)",Air,Air,"$967.93 - $1,069.81",1/7/2018 17:34
+Shenzhen,Kuwait,"Shenzhen - Baoan, China (SZX)","Kuwait - Kuwait International, Kuwait (KWI)",Air,Air,"$1,094.67 - $1,209.90",1/7/2018 17:35
+Kuala Lumpur,Kuwait,"Kuala Lumpur - Sultan Abdul Aziz Shah, Malaysia (SZB)","Kuwait - Kuwait International, Kuwait (KWI)",Air,Air,"$1,041.99 - $1,151.67",1/7/2018 17:35
+Bangalore,Singapore,"Mumbai, India",Singapore,Ocean,20FT,0,1/7/2018 18:24
+Mumbai,Singapore,"Mumbai, India",Singapore,Ocean,20FT,0,1/7/2018 18:25
+Bangalore,Shenzhen,Bangalore,"Zhanjiang, China",Ocean,20FT,$545.02 - $602.39,1/7/2018 18:26
+Mumbai,Shenzhen,"Mumbai, India","Zhanjiang, China",Ocean,20FT,$545.02 - $602.39,1/7/2018 18:26
+Shanghai,Port Kelang,"Shanghai, China","Port Kelang, Malaysia",Ocean,20FT,$194.75 - $215.25,1/7/2018 18:27
+Bangalore,Port Kelang,"Mumbai, India","Port Kelang, Malaysia",Ocean,20FT,$683.85 - $755.84,1/7/2018 18:27
+Mumbai,Port Kelang,"Mumbai, India","Port Kelang, Malaysia",Ocean,20FT,$683.85 - $755.84,1/7/2018 18:27
+Jakarta,Singapore,Jakart,"Singapore, Singapore",Ocean,20FT,$633.55 - $700.23,1/7/2018 18:30
+Jakarta,Shenzhen,"Jakarta, Indonesia","Zhanjiang, China",Ocean,20FT,$472.02 - $521.71,1/7/2018 18:31
+Jakarta,Port Kelang,"Jakarta, Indonesia","Port Kelang, Malaysia",Ocean,20FT,$639.88 - $707.24,1/7/2018 18:31
+Dalian,Hong Kong,"Dalian, China","Kwai Chung, Hong Kong",Ocean,20FT,$306.69 - $338.98,1/8/2018 18:08
+Qingdao,Hong Kong,"Qingdao, China","Kwai Chung, Hong Kong",Ocean,20FT,$256.06 - $283.01,1/8/2018 18:08
+Shanghai,Hong Kong,"Shanghai, China","Kwai Chung, Hong Kong",Ocean,20FT,$262.63 - $290.28,1/8/2018 18:08
+Port of Elizabeth,Hong Kong,"New York, United States","Kwai Chung, Hong Kong",Ocean,20FT,$625.13 - $690.93,1/8/2018 18:09
+Hong Kong,Hong Kong,"Kwai Chung, Hong Kong","Kwai Chung, Hong Kong",Ocean,20FT,$194.75 - $215.25,1/8/2018 18:09
+Chittagong,Hong Kong,"Chittagong, Bangladesh","Kwai Chung, Hong Kong",Ocean,20FT,$447.63 - $494.75,1/8/2018 18:09
+Madras,Hong Kong,"Tornio, Finland","Kwai Chung, Hong Kong",Ocean,20FT,"$968.77 - $1,070.75",1/8/2018 18:09
+Nhava Sheva,Hong Kong,Nhava Sheva,"Kwai Chung, Hong Kong",Ocean,20FT,"$968.77 - $1,070.75",1/8/2018 18:10
+Hai Phong,Hong Kong,"Hai Phong, Vietnam","Kwai Chung, Hong Kong",Ocean,20FT,$194.75 - $215.25,1/8/2018 18:10
+Ho Chi Minh City,Hong Kong,"Ho Chi Minh City, Vietnam","Kwai Chung, Hong Kong",Ocean,20FT,$435.16 - $480.97,1/8/2018 18:10
+Jakarta,Hong Kong,"Tanjung Emas, Indonesia","Kwai Chung, Hong Kong",Ocean,20FT,$333.88 - $369.03,1/8/2018 18:11
+Manila,Hong Kong,"Manila, Philippines","Kwai Chung, Hong Kong",Ocean,20FT,$194.75 - $215.25,1/8/2018 18:11
+Sihanoukville,Hong Kong,"Sihanoukville, Cambodia","Kwai Chung, Hong Kong",Ocean,20FT,$541.17 - $598.14,1/8/2018 18:11
+Qingdao,Hong Kong,"Qingdao, China","Kwai Chung, Hong Kong",Ocean,40FT,$256.06 - $283.01,1/8/2018 18:13
+Shanghai,Hong Kong,"Shanghai, China","Kwai Chung, Hong Kong",Ocean,40FT,$391.99 - $433.25,1/8/2018 18:13
+Port of Elizabeth,Hong Kong,"New York, United States","Kwai Chung, Hong Kong",Ocean,40FT,"$933.03 - $1,031.24",1/8/2018 18:13
+Hai Phong,Hong Kong,"Hai Phong, Vietnam","Kwai Chung, Hong Kong",Ocean,40FT,$260.85 - $288.31,1/8/2018 18:13
+Ho Chi Minh City,Hong Kong,"Ho Chi Minh City, Vietnam","Kwai Chung, Hong Kong",Ocean,40FT,$649.50 - $717.87,1/8/2018 18:14
+Jakarta,Hong Kong,"Jakarta, Indonesia","Kwai Chung, Hong Kong",Ocean,40FT,$430.71 - $476.04,1/8/2018 18:14
+Qingdao,Hong Kong,"Qingdao, China","Kwai Chung, Hong Kong",Ocean,40FT,$382.17 - $422.40,1/8/2018 18:14
+Jakarta,Hong Kong,"Jakarta, Indonesia","Kwai Chung, Hong Kong",Ocean,45FT,$473.78 - $523.65,1/8/2018 18:15
